@@ -1,0 +1,9 @@
+# folders
+data/
+models/
+
+# file formats
+*.pyc
+*.ipynb_checkpoints
+*.DS_Store
+
